@@ -1,6 +1,7 @@
 # Stefano Lezzi
 ## About me
-		As i said in the bio, i am a young developer that took a detour after graduating from highschool and only recently resumed 		his studies on programming, mostly web development as of now.
+    As i said in the bio, i am a young developer that took a detour after graduating from highschool and only recently resumed
+    his studies on programming, mostly web development as of now.
 
 > Following courses on Udemy
 
@@ -12,4 +13,6 @@
 4. [X] MongoDB
 5. [ ] Learning React, currently following a course...
 6. [X] Github
+7. [X] Tailwindcss framework
+   
 
